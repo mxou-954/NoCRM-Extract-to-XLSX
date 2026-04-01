@@ -68,6 +68,7 @@ export_leads_nocrm_20250401_143022.xlsx
 ## Format attendu des descriptions noCRM
 
 Le script s'appuie sur la structure des descriptions pour extraire les données.
+Pour normer vos fiches NoCRM, vous pouvez utiliser le répo suivant : ici
 
 ### Champs entreprise
 
